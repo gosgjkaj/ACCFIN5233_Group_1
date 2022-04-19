@@ -8,8 +8,9 @@
 4. NewsAPI.py - The "News API" created by Prof. Cathy Yi-Hsuan Chen
 5. bitcoin_lowest_everything.csv - This file contains all the data gathered by "Data_Collection_Bitcoin.ipynb"
 
-## bitcoin_lowest_everything.csv only contains data between 2022/02/23 to 2022/02/25, Whereas the analysis was done by using data between 2022/03/01 to 2022/03/03.
-Since we are using the free version of the NewsAPI, it is impossible to retrieve these data.
+## NOTE!
+bitcoin_lowest_everything.csv only contains data between 2022/02/23 to 2022/02/25, Whereas the analysis also used data between 2022/03/01 to 2022/03/03.
+Since we are using the free version of the NewsAPI, it is impossible to retrieve these data at this stage. Thus we can not provide these data.
 
 Make sure you have all the imports installed before you run the code.
 We recommend you run the code by using the Jupyter notebook.
